@@ -1,4 +1,5 @@
-#The E Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It
+# The E Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It
+by Michael E. Gerber
 
 ## Why I'm Reading This
 I've always been fascinated by small businesses. In fact for much of my career I've worked for startups, which are small businesses with the hopes of being big ones. (Though I now challange that assumption I've always had). 
